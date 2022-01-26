@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'decce6bdcdd740739e1cd921bc7fa18e',
+  rootNotionPageId: 'c8602e50f69041dfa2c93898f6fe0bc9',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -13,7 +13,7 @@ module.exports = {
 
   // open graph metadata (optional)
   description: '凌晨',
-  socialImageTitle: 'https://sparkling-napkin-318.notion.site/decce6bdcdd740739e1cd921bc7fa18e?v=b2f8c2a412ee419291bcf75e570b08a0',
+  socialImageTitle: 'https://sparkling-napkin-318.notion.site/Homepage-c8602e50f69041dfa2c93898f6fe0bc9',
   socialImageSubtitle: '凌晨! 👋',
 
   // social usernames (optional)
