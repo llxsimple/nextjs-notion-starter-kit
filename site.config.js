@@ -8,8 +8,8 @@ module.exports = {
 
   // basic site info (required)
   name: '凌晨',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'xlingchen.me',
+  author: '凌晨',
 
   // open graph metadata (optional)
   description: '凌晨',
@@ -17,9 +17,7 @@ module.exports = {
   socialImageSubtitle: '凌晨! 👋',
 
   // social usernames (optional)
-  twitter: 'Serenade',
   github: 'Ted0916',
-  linkedin: 'Serenade',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
