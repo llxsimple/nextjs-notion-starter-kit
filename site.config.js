@@ -1,23 +1,23 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'c8602e50f69041dfa2c93898f6fe0bc9',
+  rootNotionPageId: '547ae59ca17d4ade9f9efe42a15f2ead',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '凌晨',
-  domain: 'xlingchen.me',
-  author: '凌晨',
+  name: '刘立新',
+  domain: '刘立新',
+  author: '刘立新',
 
   // open graph metadata (optional)
-  description: '凌晨',
+  description: '刘立新',
   socialImageTitle: 'https://sparkling-napkin-318.notion.site/Homepage-c8602e50f69041dfa2c93898f6fe0bc9',
-  socialImageSubtitle: '凌晨! 👋',
+  socialImageSubtitle: '刘立新! 👋',
 
   // social usernames (optional)
-  github: 'Ted0916',
+  github: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
